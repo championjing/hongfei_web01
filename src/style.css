@@ -1,0 +1,9 @@
+body {
+	font-weight: 400;
+	color: #444;
+	text-rendering: optimizelegibility;
+}
+
+* {
+    font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+}
