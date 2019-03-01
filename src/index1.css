@@ -1,0 +1,12 @@
+.navbar-inverse {
+    background-color: #373277!important;
+    border-color: #373277!important;
+    border-bottom-width: 0px;
+}
+.active>a{
+    background-color:#5a54a7!important;
+}
+.bottom-style {
+    text-align: center;
+    font-size: 25px;
+}
